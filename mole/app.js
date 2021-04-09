@@ -42,3 +42,5 @@ function countDown() {
         alert('Game over')
     }
 }
+
+let timerId = setInterval(countDown, 1000)
