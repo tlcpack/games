@@ -24,4 +24,4 @@ class Provider {
 }
 
 const clientOptions = {};
-let newClient = new Provider('ABC Needs Money', 'http://www.abc.com/', clientOptions);
+let newClient = new Provider('ABC Needs Money', 'http://api.abc.com/', clientOptions);
